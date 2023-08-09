@@ -19,7 +19,7 @@ class Config(object):
     ARQ_API = "hoi"
     ARQ_API_KEY = "okoko"
     ARQ_API_URL = "okoko"
-    TOKEN = "6254865362:AAHq3xj36h82o34CRKX5t5hDFV4lLD-TNmc"  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
+    TOKEN = "6158580139:AAFY-AwcxtmupB8srXBEbHQenKCS9lK3wnI"  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
     OWNER_ID = 945137470  # If you dont know, run the bot and do /id in your private chat with it, also an integer
     OWNER_USERNAME = "saint_foire"
     SUPPORT_CHAT = "zeekihq"  # Your own group for support, do not add the @
