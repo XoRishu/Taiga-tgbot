@@ -34,8 +34,8 @@ class Config(object):
     )  # Prints information Error
 
     # RECOMMENDED
-    SQLALCHEMY_DATABASE_URI = "postgres://wlywacfh:UGnK09rXIwWrgh5l9O0Okk-dieKiXpjP@raja.db.elephantsql.com/wlywacfh"  # needed for any database modules
-    DATABASE_URL = "postgres://wlywacfh:UGnK09rXIwWrgh5l9O0Okk-dieKiXpjP@raja.db.elephantsql.com/wlywacfh"
+    SQLALCHEMY_DATABASE_URI = "postgresql://wlywacfh:UGnK09rXIwWrgh5l9O0Okk-dieKiXpjP@raja.db.elephantsql.com/wlywacfh"  # needed for any database modules
+    DATABASE_URL = "postgresql://wlywacfh:UGnK09rXIwWrgh5l9O0Okk-dieKiXpjP@raja.db.elephantsql.com/wlywacfh"
     LOAD = []
     NO_LOAD = ["rss", "cleaner", "connection", "math"]
     WEBHOOK = False
